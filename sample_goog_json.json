@@ -1,0 +1,138 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - \"Software Engineer\" ANDSan Diego OR remote -India Java \"Spring Boot\"",
+        "totalResults": "2",
+        "searchTerms": "\"Software Engineer\" ANDSan Diego OR remote -India Java \"Spring Boot\"",
+        "count": 2,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "6069166fa70fd403e",
+        "dateRestrict": "d9"
+      }
+    ]
+  },
+  "context": {
+    "title": "Software Engineer in America"
+  },
+  "searchInformation": {
+    "searchTime": 0.293148,
+    "formattedSearchTime": "0.29",
+    "totalResults": "2",
+    "formattedTotalResults": "2"
+  },
+  "spelling": {
+    "correctedQuery": "\"Software Engineer\" AND San Diego OR remote -India Java \"Spring Boot\"",
+    "htmlCorrectedQuery": "&quot;Software Engineer&quot; \u003Cb\u003E\u003Ci\u003EAND San\u003C/i\u003E\u003C/b\u003E Diego OR remote -India Java &quot;Spring Boot&quot;"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "ERP International, LLC hiring Senior Full-Stack Java Developer Job ...",
+      "htmlTitle": "ERP International, LLC hiring Senior Full-Stack \u003Cb\u003EJava\u003C/b\u003E Developer Job ...",
+      "link": "https://www.glassdoor.com/job-listing/senior-full-stack-java-developer-erp-international-llc-JV_IC1153871_KO0,32_KE33,54.htm?jl=1009849864113",
+      "displayLink": "www.glassdoor.com",
+      "snippet": "4 days ago ... ERP International, LLC () is currently seeking a Senior Full-Stack Java Developer with Spring Boot and React experience. ... Cyber Software Engineer, Senior ...",
+      "htmlSnippet": "4 days ago \u003Cb\u003E...\u003C/b\u003E ERP International, LLC () is currently seeking a Senior Full-Stack \u003Cb\u003EJava\u003C/b\u003E Developer with \u003Cb\u003ESpring Boot\u003C/b\u003E and React experience. ... Cyber \u003Cb\u003ESoftware Engineer\u003C/b\u003E, Senior&nbsp;...",
+      "formattedUrl": "https://www.glassdoor.com/.../senior-full-stack-java-developer-erp-internati...",
+      "htmlFormattedUrl": "https://www.glassdoor.com/.../senior-full-stack-\u003Cb\u003Ejava\u003C/b\u003E-developer-erp-internati...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbG-IPFmCybvli522MJwu3ehuEa6oZQZxqQSWOMFsMP04gnaHoxs6fSw&s",
+            "width": "100",
+            "height": "100"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=589698942",
+            "og:image": "https://media.glassdoor.com/sql/458077/enterprise-resource-planning-international-squarelogo-1464162401621.png",
+            "theme-color": "#0caa41",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "ERP International, LLC hiring Senior Full-Stack Java Developer Job in Laurel, MD | Glassdoor",
+            "og:site_name": "Glassdoor",
+            "al:ios:app_name": "Glassdoor",
+            "og:title": "ERP International, LLC hiring Senior Full-Stack Java Developer Job in Laurel, MD | Glassdoor",
+            "bingbot": "nocache",
+            "og:description": "ERP International, LLC () is currently seeking a Senior Full-Stack Java Developer with Spring Boot and React experience.... See this and similar jobs on Glassdoor",
+            "msapplication-navbutton-color": "#0caa41",
+            "al:ios:app_store_id": "589698942",
+            "twitter:image": "https://media.glassdoor.com/sql/458077/enterprise-resource-planning-international-squarelogo-1464162401621.png",
+            "referrer": "origin",
+            "fb:app_id": "169673973089895",
+            "apple-mobile-web-app-status-bar-style": "#0caa41",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "ERP International, LLC () is currently seeking a Senior Full-Stack Java Developer with Spring Boot and React experience.... See this and similar jobs on Glassdoor",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://www.glassdoor.com/job-listing/senior-full-stack-java-developer-erp-international-llc-JV_IC1153871_KO0,32_KE33,54.htm?jl=1009849864113",
+            "google-play-app": "app-id=com.glassdoor.app"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media.glassdoor.com/sql/458077/enterprise-resource-planning-international-squarelogo-1464162401621.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "TieTalent hiring Staff DevOps Engineer, Developer Platforms in ...",
+      "htmlTitle": "TieTalent hiring Staff DevOps Engineer, Developer Platforms in ...",
+      "link": "https://www.linkedin.com/jobs/view/staff-devops-engineer-developer-platforms-at-tietalent-4287003049",
+      "displayLink": "www.linkedin.com",
+      "snippet": "Aug 16, 2025 ... ... Spring boot, Docker) High EQ with the ability to present to leaders and ... Software Engineer (Remote). Experian. United States $80,237 - $139,077 4 days ...",
+      "htmlSnippet": "Aug 16, 2025 \u003Cb\u003E...\u003C/b\u003E ... \u003Cb\u003ESpring boot\u003C/b\u003E, Docker) High EQ with the ability to present to leaders and ... \u003Cb\u003ESoftware Engineer\u003C/b\u003E (\u003Cb\u003ERemote\u003C/b\u003E). Experian. United States $80,237 - $139,077 4 days&nbsp;...",
+      "formattedUrl": "https://www.linkedin.com/.../staff-devops-engineer-developer-platforms-at-...",
+      "htmlFormattedUrl": "https://www.linkedin.com/.../staff-devops-engineer-developer-platforms-at-...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLjBaC_1S0uALKnUZkw7cZJBVb5zU3LNmhvD_Y5Ib5XHiDt-eF5vJ9pjI&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://static.licdn.com/aero-v1/sc/h/xlk678jv0tjp79pv10kglzkf",
+            "og:type": "website",
+            "twitter:title": "TieTalent hiring Staff DevOps Engineer, Developer Platforms in United States | LinkedIn",
+            "twitter:card": "summary_large_image",
+            "theme-color": "#293e49",
+            "clientsideingraphs": "1",
+            "industryids": "6",
+            "og:title": "TieTalent hiring Staff DevOps Engineer, Developer Platforms in United States | LinkedIn",
+            "titleid": "25764",
+            "pagekey": "p_jobs_guest_details",
+            "locale": "en_US",
+            "og:description": "Posted 6:05:56 PM. Credit Acceptance is proud to be an award-winning company with local and national workplace…See this and similar jobs on LinkedIn.",
+            "twitter:image": "https://static.licdn.com/aero-v1/sc/h/xlk678jv0tjp79pv10kglzkf",
+            "lnkd:url": "https://www.linkedin.com/jobs/view/staff-devops-engineer-developer-platforms-at-tietalent-4287003049",
+            "companyid": "11010661",
+            "twitter:site": "@LinkedIn",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "litmsprofilename": "jobs-guest-frontend",
+            "twitter:description": "Posted 6:05:56 PM. Credit Acceptance is proud to be an award-winning company with local and national workplace…See this and similar jobs on LinkedIn.",
+            "og:url": "https://www.linkedin.com/jobs/view/staff-devops-engineer-developer-platforms-at-tietalent-4287003049"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static.licdn.com/aero-v1/sc/h/xlk678jv0tjp79pv10kglzkf"
+          }
+        ]
+      }
+    }
+  ]
+}

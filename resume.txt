@@ -1,0 +1,55 @@
+Yahia Adrian Brocke
+email: adrian.brocke@gmail.com
+linkedin: linkedin.com/in/adrian-brocke
+github: github.com/twizzybomb
+website: www.hesh.zone
+
+**Professional Summary**
+Software engineer with 7+ years of experience in enterprise development, and support for mission-critical software. Skilled in problem solving, designing, developing, testing, and system integration. Amiable cross-team collaborator with junior engineer coaching experience. Proven ability to bolster security protocols and ensure personal data compliance across regulated environments in the finance, healthcare, hospitality, and energy sectors.
+
+**Core Competencies**
+**Development & Frameworks:**
+Java (7+ yrs), Spring Boot, C++, Javascript, React
+**Cloud Infrastructure**
+AWS, Kubernetes, Docker, OpenShift OCP4, Helm
+**Observability & Monitoring:**
+Datadog, ELK Stack, Elasticsearch, Kibana, SonarQube
+**Databases & Messaging:**
+MySQL, PostgreSQL, MongoDB, Kafka, Event-driven systems
+**Security & Compliance:**
+SAST/DAST integration, HIPAA compliance, OAuth, JWT
+**DevOps & CI/CD:**
+GitLab, Jenkins, Gradle, Automated testing, TDD
+
+**Professional Experience**
+**Software Engineer**
+**USAA**
+Sep 2022 – Mar 2025 San Antonio, TX
+* Engineered REST APIs processing 1M+ monthly transactions, ensuring high availability and performance for critical banking and credit card systems
+* Led modernization initiative upgrading legacy systems to Java 17 and Spring Boot 3.x, achieving 30% performance improvement while enhancing security compliance across enterprise applications
+* Mentored junior engineers on CI/CD pipeline deployment and security best practices
+* Implemented comprehensive security scanning pipeline integrating SAST/DAST tools, enabling automated vulnerability detection and reducing security incidents by proactively identifying code and runtime risks
+* Integrated third-party payment platform APIs including Stripe and PayPal to streamline payment processing workflows
+
+**Software Engineer**
+**Clarity Software Solutions**
+May 2020 – Jul 2022 Madison, CT
+* Spearheaded design and implementation of HIPAA-compliant health insurance applications, ensuring data privacy and regulatory adherence for sensitive healthcare information
+* Delivered database performance enhancements reducing response times by 180ms (24% improvement), significantly improving user experience across health insurance platforms
+* Collaborated with cross-functional teams to establish security best practices and compliance standards for healthcare data processing systems
+
+**Software Developer Intern**
+**FME**
+Jul 2018 – May 2020 Danbury, CT
+* Built data integrity monitoring system for SQL to Documentum migrations, implementing automated discrepancy detection and email alerting to ensure data consistency
+
+**Education & Projects**
+**B.Sc. Computer Science, Minor in Security**
+Western Connecticut State University
+3.84 GPA | 2017-2019
+
+**AI-Powered Financial Analytics Platform**
+Full-stack application leveraging ChatGPT API for intelligent expense categorization with interactive Sankey visualizations. Built with Java, Spring Boot, Python, and JavaScript.
+
+**Secure Geo-Social Mobile Platform**
+Android application with AES/RSA encryption, real-time socket communication, and PostgreSQL integration for location-based social interactions.

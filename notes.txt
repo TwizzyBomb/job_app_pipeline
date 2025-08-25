@@ -1,0 +1,45 @@
+Api key: AIzaSyBokUGx07SGs4Qy5kcdtT9RDztNGwE0kmw
+Search Engine Id: 6069166fa70fd403e
+q: "Software Engineer" (San Diego OR remote) -India Java "Spring Boot"
+num: 10
+"start": start
+
+
+
+https://customsearch.googleapis.com/customsearch/v1&cx=6069166fa70fd403e&key=AIzaSyBokUGx07SGs4Qy5kcdtT9RDztNGwE0kmw
+
+
+
+https://cse.google.com/cse?cx=6069166fa70fd403e
+
+
+https://www.googleapis.com/customsearch/v1?key=AIzaSyBokUGx07SGs4Qy5kcdtT9RDztNGwE0kmw&cx=6069166fa70fd403e&q="Software%20Engineer"%20ANDSan%20Diego%20OR%20remote%20-India%20Java%20"Spring Boot"&dateRestrict=d9
+
+
+
+https://job-boards.greenhouse.io/britive/jobs/4821142004
+https://job-boards.greenhouse.io/mqreferrals/jobs/6843502
+https://job-boards.greenhouse.io/6sense/jobs/7087054
+
+
+
+Job scraping tool
+
+
+run query against Programmed Search Engine
+Compile list of top 100 results (shouldn't be too many)
+- work on this
+pass to claude to rank them based on my resume
+- get resume in text file for loading (much cleaner code)
+- we need a json file containing results from the google search
+
+use resume and job descriptions to draft top 5 cover letters with option to draft more
+save results in a table in google sheets
+
+C:\src\Job_app_pipeline\job_scraper.p
+
+
+
+Working query:
+site:builtinsd.com OR site:wellfound.com OR site:remoteok.com OR site:weworkremotely.com OR site:*.icims.com OR site:*.smartrecruiters.com OR site:*.workable.com OR site:lever.co OR site:ashbyhq.com OR site:greenhouse.io '"Software Engineer" AND Java AND CA OR remote -India -Mexico -Brazil -Argentina -Colombia -Peru -Chile -Ecuador -Venezuela -Bolivia -Paraguay -Uruguay -Spain -Vietnam -Philippines -Indonesia -Thailand -Malaysia -Singapore -China -Russia -Ukraine -Turkey -Egypt -Nigeria -Kenya -"South Africa"
+

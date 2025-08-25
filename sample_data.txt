@@ -1,0 +1,16 @@
+    # OPTION 1: Use Google Search API results
+    # You can replace this with your actual Google search results JSON
+    sample_google_results = {
+        "items": [
+            {
+                "title": "ERP International, LLC hiring Senior Full-Stack Java Developer Job in Laurel, MD | Glassdoor",
+                "link": "https://www.glassdoor.com/job-listing/senior-full-stack-java-developer-erp-international-llc-JV_IC1153871_KO0,32_KE33,54.htm?jl=1009849864113",
+                "snippet": "ERP International, LLC is currently seeking a Senior Full-Stack Java Developer with Spring Boot and React experience. Cyber Software Engineer, Senior..."
+            },
+            {
+                "title": "TieTalent hiring Staff DevOps Engineer, Developer Platforms in United States | LinkedIn",
+                "link": "https://www.linkedin.com/jobs/view/staff-devops-engineer-developer-platforms-at-tietalent-4287003049",
+                "snippet": "Spring boot, Docker) High EQ with the ability to present to leaders and ... Software Engineer (Remote). Experian. United States $80,237 - $139,077..."
+            }
+        ]
+    }
