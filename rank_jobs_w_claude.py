@@ -42,6 +42,7 @@ class JobListing:
 class JobRanker:
     def __init__(self, api_key: str = None):
         """Initialize the JobRanker with Anthropic API key"""
+        resume_path = os.getenv("RESUME_PATH", "resume.txt")
         
         # Try to get API key from parameter first, then environment variable
         self.api_key = api_key or os.getenv('ANTHROPIC_API_KEY')
@@ -54,7 +55,8 @@ class JobRanker:
         self.client = anthropic.Anthropic(api_key=self.api_key)
         
         # Load the default resume text into memory
-        self.resume = self._load_resume_from_file("resume.txt")
+        self.resume = self.load_resume_from_file(resume_path)
+        print(f"✅ first 100 of resume text: {self.resume[:100]}...")  # Print first 100 chars of resume
     
     def set_resume(self, resume_text: str):
         """Update the resume text - allows using a different resume"""
@@ -66,7 +68,8 @@ class JobRanker:
         try:
             # Open the file and read all its contents into memory
             with open(file_path, 'r', encoding='utf-8') as f:
-                self.resume = f.read()
+                resume_content = f.read()
+                return resume_content  # Return the full text of the resume
             # Print success message to user
             print(f"✅ Resume loaded from {file_path}")
         except FileNotFoundError:
@@ -397,7 +400,8 @@ def main():
     
     # Load from a saved Google search JSON file
     print("📁 Loading from saved Google search results file...")
-    jobs_from_google = ranker.load_jobs_from_google_search_file("job_search_results.json")
+    job_search_list_path = os.getenv("JOB_SEARCH_LIST_PATH", "job_search_results.json")
+    jobs_from_google = ranker.load_jobs_from_google_search_file(job_search_list_path)
     jobs_to_analyze = jobs_from_google # could have other sources too
     
     # Check if we have any jobs to analyze
