@@ -13,7 +13,7 @@ https://customsearch.googleapis.com/customsearch/v1&cx=6069166fa70fd403e&key=AIz
 https://cse.google.com/cse?cx=6069166fa70fd403e
 
 
-https://www.googleapis.com/customsearch/v1?key=AIzaSyBokUGx07SGs4Qy5kcdtT9RDztNGwE0kmw&cx=6069166fa70fd403e&q="Software%20Engineer"%20ANDSan%20Diego%20OR%20remote%20-India%20Java%20"Spring Boot"&dateRestrict=d9
+https://www.googleapis.com/customsearch/v1?key=AIzaSyBokUGx07SGs4Qy5kcdtT9RDztNGwE0kmw&cx=6069166fa70fd403e&q="Software%20Engineer"%20AND%20San%20Diego%20OR%20remote%20-India%20Java%20"Spring Boot"&dateRestrict=d9
 
 
 
