@@ -39,6 +39,9 @@ save results in a table in google sheets
 C:\src\Job_app_pipeline\job_scraper.p
 
 
+Claude prompt:
+Write me a professional yet personable cover letter for this role. Highlight the experience in my resume anecdotally (don't just mention your requirement for _ aligns perfectly with my experience doing __ ). Keep it under 200 words.
+
 
 Working query:
 site:builtinsd.com OR site:wellfound.com OR site:remoteok.com OR site:weworkremotely.com OR site:*.icims.com OR site:*.smartrecruiters.com OR site:*.workable.com OR site:lever.co OR site:ashbyhq.com OR site:greenhouse.io '"Software Engineer" AND Java AND CA OR remote -India -Mexico -Brazil -Argentina -Colombia -Peru -Chile -Ecuador -Venezuela -Bolivia -Paraguay -Uruguay -Spain -Vietnam -Philippines -Indonesia -Thailand -Malaysia -Singapore -China -Russia -Ukraine -Turkey -Egypt -Nigeria -Kenya -"South Africa"
